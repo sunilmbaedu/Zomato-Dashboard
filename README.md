@@ -9,3 +9,5 @@ Details:
 Formula Sheet and Logic
 
 Simple Way to Understanding
+
+Upload As soon As Possible
