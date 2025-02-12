@@ -6,5 +6,6 @@ https://app.powerbi.com/view?r=eyJrIjoiNGEyODBiM2UtM2M3Ny00Njc1LWJkNTQtNjVmYjA5O
 
 Details:
 
+Formula Sheet and Logic
 
 Simple Way to Understanding
