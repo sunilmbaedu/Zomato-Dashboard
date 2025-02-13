@@ -1,13 +1,8 @@
-# Zomato-Dashboard
-Image Zip/
+# Zomato Dashboard
+![Zomato Dashboard](https://github.com/user-attachments/assets/b614379c-adce-4293-aa16-6ec7d6a63fd8)
+https://app.powerbi.com/view?r=eyJrIjoiMzcwNzdjZDUtZmMwZC00MzUwLWFhOTgtNmVjM2MwODhmZGM0IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
 
-View live dashboard with this link
-https://app.powerbi.com/view?r=eyJrIjoiNGEyODBiM2UtM2M3Ny00Njc1LWJkNTQtNjVmYjA5OTlhYmMzIiwidCI6IjgyMWMxNmVkLWRkYzgtNGRiZS1iOTE2LTUxMDVmN2E1YTNhZSJ9
+## Overview
 
-Details:
+Welcome to the Zomato Dashboard project! This project aims to provide a comprehensive and visually appealing dashboard for Zomato professionals to analyze Zomato's key metrics and make informed decisions. The dashboard is created using a combination of Excel and Power BI, leveraging the power of data analysis and visualization tools.
 
-Formula Sheet and Logic
-
-Simple Way to Understanding
-
-Upload As soon As Possible
