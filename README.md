@@ -31,12 +31,12 @@ The Zomato Dashboard is an interactive data visualization project that provides 
 
 
 🛠️ Technologies Used
+<ul>
+ <li><p align="left">
+<a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/e1f0b0f0-0e72-4514-b6ad-362043aabd83" alt="Power BI" width="40" height="40"/></a>&nbsp;&nbsp;Power BI – For data visualization.</p></li>
+ <li>Excel – For data storage and processing.</li>
 
-<p align="left">
-<a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/e1f0b0f0-0e72-4514-b6ad-362043aabd83" alt="Power BI" width="40" height="40"/></a>&nbsp;&nbsp;Power BI – For data visualization.
-Excel – For data storage and processing.
-</p>
-
+</ul>
 🔥 Insights & Findings
 
 Cities like Delhi, Mumbai, and Bangalore have the highest number of restaurants.
