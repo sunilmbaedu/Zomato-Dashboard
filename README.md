@@ -47,7 +47,5 @@ Higher-rated restaurants tend to have more votes and reviews.
 
 Created And Developed By <a href="https://www.linkedin.com/in/sunilmbaedu/">Sunil Rajpoot</a>
 
-📩 Contact
-
-For queries, suggestions, or collaborations, feel free to reach out: 👉👉
+📩 Contact for queries, suggestions, or collaborations, feel free to reach out: 👉👉
 
