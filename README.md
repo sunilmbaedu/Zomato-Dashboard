@@ -1,15 +1,12 @@
 # Zomato Dashboard
 ![Zomato Dashboard](https://github.com/user-attachments/assets/b614379c-adce-4293-aa16-6ec7d6a63fd8)
-Click on the link and check the <a href="https://app.powerbi.com/view?r=eyJrIjoiMzcwNzdjZDUtZmMwZC00MzUwLWFhOTgtNmVjM2MwODhmZGM0IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9">live dashboard</a> here to view
+Click on the link and check the <a href="https://app.powerbi.com/view?r=eyJrIjoiMzcwNzdjZDUtZmMwZC00MzUwLWFhOTgtNmVjM2MwODhmZGM0IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9">Dashboard Preview</a> here to view
 
 
 ## Overview
 
 Welcome to the Zomato Dashboard project! This project aims to provide a comprehensive and visually appealing dashboard for Zomato professionals to analyze Zomato's key metrics and make informed decisions. The dashboard is created using a combination of Excel and Power BI, leveraging the power of data analysis and visualization tools.
 
-Created And Developed By 
-
-Zomato Dashboard
 
 📌 Overview
 
@@ -31,45 +28,14 @@ The Zomato Dashboard is an interactive data visualization project that provides 
 
 📂 Dataset
 
-The dashboard uses Zomato restaurant data, which includes:
 
-Restaurant Name & Location
-
-Ratings & Reviews
-
-Cuisine Type
-
-Average Cost for Two
-
-Delivery Availability
-
-Votes & Customer Feedback
 
 🛠️ Technologies Used
 
-Power BI / Tableau – For data visualization.
-
-Python (Pandas, Matplotlib, Seaborn) – For data preprocessing and analysis.
-
-SQL – For data extraction and transformation.
-
-Excel / CSV – For data storage and processing.
-
-📌 How to Use
-
-Clone this repository:
-
-git clone https://github.com/yourusername/Zomato-Dashboard.git
-
-Open the dataset in Power BI / Tableau / Python Notebook.
-
-Load the dataset and explore visualizations.
-
-Use filters to analyze different aspects of the data.
-
-📊 Dashboard Preview
-
-(Screenshot of the dashboard goes here)
+<p align="left">
+<a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/e1f0b0f0-0e72-4514-b6ad-362043aabd83" alt="Power BI" width="40" height="40"/></a>&nbsp;&nbsp;Power BI – For data visualization.
+Excel – For data storage and processing.
+</p>
 
 🔥 Insights & Findings
 
@@ -83,14 +49,9 @@ Higher-rated restaurants tend to have more votes and reviews.
 
 👥 Contributors
 
-<a href="https://www.linkedin.com/in/sunilmbaedu/">Sunil Rajpoot</a>
-
-
-📝 License
-
-This project is open-source and available under the MIT License.
+Created And Developed By <a href="https://www.linkedin.com/in/sunilmbaedu/">Sunil Rajpoot</a>
 
 📩 Contact
 
 For queries, suggestions, or collaborations, feel free to reach out:
-📧 Email: your.email@example.com
+📧 Email: sunilkumar796311@gmail.com
