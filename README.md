@@ -45,7 +45,7 @@ Higher-rated restaurants tend to have more votes and reviews.
 
 ## 👥 Contributors
 
-Created And Developed By <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Circle Logo" width="20" height="20" style="border-radius: 50%;">
+Created And Developed By <img src="https://github.com/user-attachments/assets/0db18f39-da83-4c17-9b47-fdc8f8d6f5ee" alt="Circle Logo" width="20" height="20" style="border-radius: 50%;">
  <a href="https://www.linkedin.com/in/sunilmbaedu/">Sunil Rajpoot</a>
 
 📩 Contact for queries, suggestions, or collaborations, feel free to reach out: 👉👉  <a href="https://linkedin.com/in/sunilmbaedu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sunilmbaedu" height="17" width="17" /></a>
