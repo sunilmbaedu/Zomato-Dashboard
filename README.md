@@ -49,5 +49,5 @@ Created And Developed By <a href="https://www.linkedin.com/in/sunilmbaedu/">Suni
 
 📩 Contact
 
-For queries, suggestions, or collaborations, feel free to reach out:
-📧 Email: sunilkumar796311@gmail.com
+For queries, suggestions, or collaborations, feel free to reach out: 👉👉
+
