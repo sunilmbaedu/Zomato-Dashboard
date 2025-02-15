@@ -8,7 +8,7 @@ Click on the link and check the 👉👉 <a href="https://app.powerbi.com/view?r
 Welcome to the Zomato Dashboard, an interactive data visualization project that uses Zomato data to provide insights into restaurant trends, customer preferences, ratings, and sales performance. The dashboard helps businesses, data analysts, and food enthusiasts explore key metrics and make informed decisions. It is created using Excel and Power BI, leveraging the power of data analysis and visualization tools.
 
 
-🚀 Features
+## 🚀 Features
 
 📊 Interactive Visualizations – Explore restaurant ratings, sales trends, and customer demographics.
 
@@ -27,7 +27,7 @@ Welcome to the Zomato Dashboard, an interactive data visualization project that 
 
 
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 <ul>
  <li>Power BI – For data visualization.</li>
  <li>Excel – For data storage and processing.</li>
@@ -43,7 +43,7 @@ North Indian and Chinese cuisines are the most popular across multiple locations
 
 Higher-rated restaurants tend to have more votes and reviews.
 
-👥 Contributors
+## 👥 Contributors
 
 Created And Developed By <a href="https://www.linkedin.com/in/sunilmbaedu/">Sunil Rajpoot</a>
 
