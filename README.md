@@ -43,7 +43,7 @@ North Indian and Chinese cuisines are the most popular across multiple locations
 
 Higher-rated restaurants tend to have more votes and reviews.
 
-## <p align="center">👥 Contributors 👇</p>
+## <p align="center">👥 Contributor 👇</p>
 
 <p align="center"><img src="https://github.com/user-attachments/assets/18465236-7e1c-486b-bcf3-346e7e33072f" alt="Suni Rajpoot" width="100" height="100"></p>
 <p align="center">Created And Developed By <a href="https://www.linkedin.com/in/sunilmbaedu/">Sunil Rajpoot</a></p>
