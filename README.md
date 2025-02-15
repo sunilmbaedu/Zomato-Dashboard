@@ -7,7 +7,7 @@ Click on the link and check the <a href="https://app.powerbi.com/view?r=eyJrIjoi
 
 Welcome to the Zomato Dashboard project! This project aims to provide a comprehensive and visually appealing dashboard for Zomato professionals to analyze Zomato's key metrics and make informed decisions. The dashboard is created using a combination of Excel and Power BI, leveraging the power of data analysis and visualization tools.
 
-Created And Developed By <a href="https://www.linkedin.com/in/sunilmbaedu/">Sunil Rajpoot</a>
+Created And Developed By 
 
 Zomato Dashboard
 
@@ -83,9 +83,8 @@ Higher-rated restaurants tend to have more votes and reviews.
 
 👥 Contributors
 
-Your Name
+<a href="https://www.linkedin.com/in/sunilmbaedu/">Sunil Rajpoot</a>
 
-Other contributors
 
 📝 License
 
