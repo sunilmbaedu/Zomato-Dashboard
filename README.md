@@ -3,14 +3,10 @@
 Click on the link and check the <a href="https://app.powerbi.com/view?r=eyJrIjoiMzcwNzdjZDUtZmMwZC00MzUwLWFhOTgtNmVjM2MwODhmZGM0IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9">Dashboard Preview</a> here to view
 
 
-## Overview
+## 📌 Overview
 
-Welcome to the Zomato Dashboard project! This project aims to provide a comprehensive and visually appealing dashboard for Zomato professionals to analyze Zomato's key metrics and make informed decisions. The dashboard is created using a combination of Excel and Power BI, leveraging the power of data analysis and visualization tools.
+Welcome to the Zomato Dashboard, an interactive data visualization project that uses Zomato data to provide insights into restaurant trends, customer preferences, ratings, and sales performance. The dashboard helps businesses, data analysts, and food enthusiasts explore key metrics and make informed decisions. It is created using Excel and Power BI, leveraging the power of data analysis and visualization tools.
 
-
-📌 Overview
-
-The Zomato Dashboard is an interactive data visualization project that provides insights into restaurant trends, customer preferences, ratings, and sales performance using Zomato data. The dashboard helps businesses, data analysts, and food enthusiasts explore key metrics related to the restaurant industry.
 
 🚀 Features
 
@@ -25,6 +21,7 @@ The Zomato Dashboard is an interactive data visualization project that provides 
 💰 Cost Analysis – Evaluate average meal costs across different locations.
 
 📈 Sales & Revenue Trends – Track revenue generation and restaurant performance.
+
 
 📂 Dataset
 
