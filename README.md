@@ -26,13 +26,6 @@ Welcome to the Zomato Dashboard, an interactive data visualization project that 
 ## 📂 Dataset
 
 All Data we are Used
-<select name="cars" id="cars">
-  <option value="volvo">Volvo</option>
-  <option value="saab">Saab</option>
-  <option value="mercedes">Mercedes</option>
-  <option value="audi">Audi</option>
-</select>
-
 
 ## 🛠️ Technologies Used
 <ul>
