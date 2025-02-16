@@ -23,7 +23,7 @@ Welcome to the Zomato Dashboard, an interactive data visualization project that 
 📈 Sales & Revenue Trends – Track revenue generation and restaurant performance.
 
 
-📂 Dataset
+## 📂 Dataset
 
 
 
@@ -33,7 +33,7 @@ Welcome to the Zomato Dashboard, an interactive data visualization project that 
  <li>Excel – For data storage and processing.</li>
 </ul>
 
-🔥 Insights & Findings
+## 🔥 Insights & Findings
 
 Cities like Delhi, Mumbai, and Bangalore have the highest number of restaurants.
 
