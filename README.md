@@ -1,11 +1,11 @@
 # Zomato Dashboard
 ![Zomato Dashboard](https://github.com/user-attachments/assets/b614379c-adce-4293-aa16-6ec7d6a63fd8)
-<br> 📌Click the link🔗 to view the 👉👉<a href="https://app.powerbi.com/view?r=eyJrIjoiMzcwNzdjZDUtZmMwZC00MzUwLWFhOTgtNmVjM2MwODhmZGM0IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9"> Dashboard Preview. 👆</a>
+📌Click the link🔗 to view the 👉👉<a href="https://app.powerbi.com/view?r=eyJrIjoiMzcwNzdjZDUtZmMwZC00MzUwLWFhOTgtNmVjM2MwODhmZGM0IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9"> Dashboard Preview. 👆</a>
 
 
 ## 📌 Overview
 
-Welcome to the Zomato Dashboard, an interactive data visualization project that uses Zomato data to provide insights into restaurant trends, customer preferences, ratings, and sales performance. The dashboard helps businesses, data analysts, and food enthusiasts explore key metrics and make informed decisions. It is created using Excel and Power BI, leveraging the power of data analysis and visualization tools.
+Welcome to the Zomato Dashboard,<br> an interactive data visualization project that uses Zomato data to provide insights into restaurant trends, customer preferences, ratings, and sales performance. The dashboard helps businesses, data analysts, and food enthusiasts explore key metrics and make informed decisions. It is created using Excel and Power BI, leveraging the power of data analysis and visualization tools.
 
 
 ## 🚀 Features
