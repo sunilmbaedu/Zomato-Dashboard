@@ -5,7 +5,7 @@
 
 ## 📌 Overview
 
-Welcome to the Zomato Dashboard,<br> an interactive data visualization project that uses Zomato data to provide insights into restaurant trends, customer preferences, ratings, and sales performance. The dashboard helps businesses, data analysts, and food enthusiasts explore key metrics and make informed decisions. It is created using Excel and Power BI, leveraging the power of data analysis and visualization tools.
+Welcome to the Zomato Dashboard, an interactive data visualization project that uses Zomato data to provide insights into restaurant trends, customer preferences, ratings, and sales performance. The dashboard helps businesses, data analysts, and food enthusiasts explore key metrics and make informed decisions. It is created using Excel and Power BI, leveraging the power of data analysis and visualization tools.
 
 
 ## 🚀 Features
@@ -22,7 +22,7 @@ Welcome to the Zomato Dashboard,<br> an interactive data visualization project t
 
 📈 Sales & Revenue Trends – Track revenue generation and restaurant performance.
 
-
+<br>
 ## 📂 Dataset
 
 All Data we are Used File Name 
