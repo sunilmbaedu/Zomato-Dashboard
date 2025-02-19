@@ -22,7 +22,7 @@ Welcome to the Zomato Dashboard, an interactive data visualization project that 
 
 📈 Sales & Revenue Trends – Track revenue generation and restaurant performance.
 
-<br>
+
 ## 📂 Dataset
 
 All Data we are Used File Name 
