@@ -35,13 +35,13 @@ All Data we are Used File Name
 
 ## 🔥 Insights & Findings
 
-🔴 Cities like Delhi, Mumbai, and Bangalore have the highest number of restaurants.
+     🔴 Cities like Delhi, Mumbai, and Bangalore have the highest number of restaurants.
 
-🔴 Fine dining restaurants generally receive higher ratings than fast food outlets.
+     🔴 Fine dining restaurants generally receive higher ratings than fast food outlets.
+ 
+     🔴 North Indian and Chinese cuisines are the most popular across multiple locations.
 
-North Indian and Chinese cuisines are the most popular across multiple locations.
-
-Higher-rated restaurants tend to have more votes and reviews.
+     🔴 Higher-rated restaurants tend to have more votes and reviews.
 
 ## <p align="center">👥 Contributor 👇</p>
 
