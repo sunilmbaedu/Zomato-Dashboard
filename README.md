@@ -20,7 +20,7 @@ Welcome to the Zomato Dashboard, an interactive data visualization project that 
 
     💰 Cost Analysis – Evaluate average meal costs across different locations.
 
-📈 Sales & Revenue Trends – Track revenue generation and restaurant performance.
+    📈 Sales & Revenue Trends – Track revenue generation and restaurant performance.
 
 
 ## 📂 Dataset
