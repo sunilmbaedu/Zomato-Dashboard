@@ -10,15 +10,15 @@ Welcome to the Zomato Dashboard, an interactive data visualization project that 
 
 ## 🚀 Features
 
-📊 Interactive Visualizations – Explore restaurant ratings, sales trends, and customer demographics.
+    📊 Interactive Visualizations – Explore restaurant ratings, sales trends, and customer demographics.
 
-🌍 Location-Based Insights – Analyze restaurant performance across different cities and countries.
+    🌍 Location-Based Insights – Analyze restaurant performance across different cities and countries.
 
-🍽 Cuisine Popularity – Identify the most popular cuisines and dining trends.
+    🍽 Cuisine Popularity – Identify the most popular cuisines and dining trends.
 
-⭐ Customer Reviews & Ratings – Understand user feedback and rating distribution.
+    ⭐ Customer Reviews & Ratings – Understand user feedback and rating distribution.
 
-💰 Cost Analysis – Evaluate average meal costs across different locations.
+    💰 Cost Analysis – Evaluate average meal costs across different locations.
 
 📈 Sales & Revenue Trends – Track revenue generation and restaurant performance.
 
